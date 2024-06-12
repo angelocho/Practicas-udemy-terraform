@@ -37,6 +37,14 @@ variable "ingress_ports" {
   }))
 }
 
+variable "access_key" {
+  
+}
+
+variable "secret_key" {
+  
+}
+
 # variable "name" {
 #   description = "The resource name for terraform backend"
 #   type        = string
